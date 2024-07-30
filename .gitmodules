@@ -1,0 +1,3 @@
+[submodule "domain_1"]
+	path = domain_1
+	url = https://github.com/Monada-Dominion/domain_1.git
